@@ -13,7 +13,7 @@ Classify the sentinment (positive or negative) of the text by pre-processing and
 - Transform the processes text into columns based on the text importance with TF-IDF techniques
 - classification model development and evaluation
 
-## Target data dictionart
+## Target data dictionary
 - Sentence: review text
 - Polarity: sentinment 
   - 0: negative sentinment
